@@ -1,0 +1,17 @@
+{
+    "trains": [
+        {
+            "trainID": 899803236143,
+            "trainNumber": "12606",
+            "trainName": "Pallavan",
+            "trainType": "Express",
+            "trainStationFromID": "569821404791",
+            "trainStationToID": "211580943780",
+            "trainStationViaIDs": [
+                "843757823427",
+                "263994043738",
+                "590798462347"
+            ]
+        }
+    ]
+}

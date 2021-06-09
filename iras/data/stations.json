@@ -1,0 +1,95 @@
+{
+    "stations": [
+        {
+            "stationID": 569821404791,
+            "stationName": "Chennai Egmore",
+            "stationType": "Junction",
+            "stationCode": "MS",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "3"
+        },
+        {
+            "stationID": 176484153067,
+            "stationName": "Tiruchchirapali",
+            "stationType": "Junction",
+            "stationCode": "TPJ",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "5"
+        },
+        {
+            "stationID": 590798462347,
+            "stationName": "Villupuram",
+            "stationType": "Junction",
+            "stationCode": "VM",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "6"
+        },
+        {
+            "stationID": 263994043738,
+            "stationName": "Vridhachalam",
+            "stationType": "Junction",
+            "stationCode": "VRI",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "5"
+        },
+        {
+            "stationID": 211580943780,
+            "stationName": "Karaikudi",
+            "stationType": "Junction",
+            "stationCode": "KKDI",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "5"
+        },
+        {
+            "stationID": 843757823427,
+            "stationName": "Tambaram",
+            "stationType": "Junction",
+            "stationCode": "TBM",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "6"
+        },
+        {
+            "stationID": 168137886969,
+            "stationName": "Chengalpattu",
+            "stationType": "Junction",
+            "stationCode": "CGL",
+            "stationArrivals": {
+                "trains": []
+            },
+            "stationDepartures": {
+                "trains": []
+            },
+            "stationPlatformCount": "5"
+        }
+    ]
+}
